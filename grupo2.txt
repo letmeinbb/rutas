@@ -1,0 +1,96 @@
+const busC4MirafloresAStopsRuta1Ida = [
+        { lat: -16.3768449651962, -71.49896209011759}, //TOMASA TITO CONDEMAITA
+        { lat: -16.37552345459039, -71.4997373879797}, //
+        { lat: -16.3752727637215, -71.49911102913904}, //ZEballos mariategui
+        { lat: -16.3752727637215, -71.49911102913904}, //ZEballos mariategui
+        { lat: -16.37488031404542, -71.49900872149021},
+        { lat: -16.373694, -71.502135}, //Estadio Porvenir
+        { lat: -16.373035, -71.502874}, //Grifo Porvenir
+        { lat: -16.374229, -71.504492}, // Plaza Porvenir
+        { lat: -16.375801, -71.506863}, //Amauta
+        { lat: -16.3770044, -71.5086281}, // Comisaria El Porvenir
+        { lat: -16.3799546, -71.5095353}, //Cristo Obrero
+        { lat: -16.3827078, -71.511775}, //Centro de salud Alto Misti
+        { lat: -16.386294, -71.514814}, //I.E.Luna Pizarro
+        { lat: -16.38792, -71.516201}, //Recta de comisaria Alto Misti
+        { lat: -16.3908519, -71.5186827}, //Iglesia Chapi Chico
+        { lat: -16.39313, -71.520604}, //I.E. José Galvez
+        { lat: -16.394169, -71.521464}, //Parque Mayta Capac
+        { lat: -16.393553, -71.522717}, //San Martin
+        { lat: -16.395475, -71.523999}, //Calle Puno
+        { lat: -16.397155, -71.525155}, //Manuel Muñoz Najar
+        { lat: -16.398224, -71.526689}, //Canal 2
+        { lat: -16.399557, -71.528701}, //Siglo xx (La Paz)
+];
+
+const busC4MirafloresAStopsRuta1Vuelta = [
+        { lat: -16.399557, -71.528701}, //Siglo xx (La Paz)
+        { lat: -16.400929, -71.527684}, //Goyeneche
+        { lat: -16.400071, -71.526317}, //La Salle
+        { lat: -16.396735, -71.522184}, //Calle Puno
+        { lat: -16.395308, -71.520406}, //Av. Progreso
+        { lat: -16.394322, -71.52134}, //Parque Mayta Cápac
+        { lat: -16.393351, -71.520546}, //I.E. José Galvez
+        { lat: -16.3909577, -71.5185623}, //Chapi Chico
+        { lat: -16.388128, -71.516168}, //Recta de comisaria Alto Misti
+        { lat: -16.386534, -71.514784}, //I.E. Luna Pizarro
+        { lat: -16.382813, -71.511625}, //Centro de salud Alto Misti
+        { lat: -16.3803282, -71.5096513}, //Cristo Obrero
+        { lat: -16.379374, -71.510504}, //San Martin
+        { lat: -16.377351, -71.508505}, //Comisaria El Porvenir
+        { lat: -16.375844, -71.506596}, //Amauta
+        { lat: -16.37461, -71.504865}, //Plaza Porvenir
+        { lat: -16.373128, -71.502763}, //Grifo Porvenir
+        { lat: -16.373702, -71.501234}, //Torre de control de Serenazgo
+        { lat: -16.375421, -71.499743}, //I.E.Padre Eloy
+        { lat: -16.376806, -71.498764}, //Tomasa Tito Condemayta
+];
+
+const busC4AltoSelvaAStopsRuta2Ida = [
+        { lat: -16.36574770, lng: -71.50190605}, //Empr. Trans. ESPIRITU SANTO.
+        { lat: -16.365890, lng: -71.502622},//javier heraud
+        { lat: -16.366885, -71.501532}, //
+        { lat: -16.367482, lng: -71.500636}, //asa
+        { lat: -16.368205, lng: -71.503650}, //polleria dondaniel
+        { lat: -16.368357, lng: -71.507288}, //park tripartito(av.juan velasco)
+        { lat: -16.368915, lng: -71.509578}, //cancha apurimac
+        { lat: -16.370732, lng: -71.511512}, //calle cusco
+        { lat: -16.37182, lng: -71.51291}, //&la canchita
+        { lat: -16.373352, -71.511797},//av. obrera
+        { lat: -16.374917, -71.513921}, //leticia
+        { lat: -16.377403, -71.517193}, //av. mexico
+        { lat: -16.378842, -71.516258}, //av. brasil
+        { lat: -16.38218018533833, -71.51720450565534},
+        { lat: -16.39175017, lng: -71.53306056},//Selva Alegre
+        { lat: -16.39359359, lng: -71.53731630},//Calle Villalba
+        { lat: -16.39359359, lng: -71.53731630},//Cruz Verde
+        { lat: -16.40246002, lng: -71.53895848},//La Merced
+        { lat: -16.40560595, lng: -71.53991667},//Salaverry
+        { lat: -16.40839152, lng: -71.54202022},//UTP
+];
+
+const busC4AltoSelvaAStopsRuta2Vuelta = [
+        { lat: -16.40839152, lng: -71.54202022},//UTP
+        { lat: -16.407174714697273, -71.53857479467612},
+        { lat: -16.403214416421815, -71.53679497832684},
+        { lat: -16.40135997071678, -71.53607333557592},
+        { lat: -16.392164268520855, -71.53237841728719},
+        { lat: -16.388937151567315, -71.52625956742706},
+        { lat: -16.385679763590378, -71.52460226022467},
+        { lat: -16.386408732568007, -71.52293611510603},
+        { lat: -16.38218018533833, -71.51720450565534},
+        { lat: -16.378813800674717, -71.51609590125325}, //av. brasil
+        { lat: -16.378204570875035, -71.51524219092309}, //av. mexico
+        { lat: -16.377581190812496, -71.51536272862076},
+        { lat: -16.374917, -71.513921}, //leticia 
+        { lat: -16.373352, -71.511797},//av. obrera
+        { lat: -16.37182, lng: -71.51291}, //&la canchita
+        { lat: -16.370732, lng: -71.511512}, //calle cusco
+        { lat: -16.368835879612305, -71.5081936554763},
+        { lat: -16.3683059952355, -71.50707564034775}, //park tripartito(av.juan velasco)
+        { lat: -16.368224646789752, -71.50392467980353}, //polleria dondaniel
+        { lat: -16.369783930159215, -71.50375448182619},
+        { lat: -16.36963599476875, -71.5020636270306},
+        { lat: -16.366885, -71.501532}, //
+        { lat: -16.36574770, lng: -71.50190605}, //Empr. Trans. ESPIRITU SANTO.
+];
